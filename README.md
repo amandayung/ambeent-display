@@ -54,8 +54,8 @@ We chose the worker bee / busy bees metaphor, as it is a common metaphor used wh
 
 
 ### References
-[1] Cadiz, J. J., Fussell, S. R., Kraut, R. E., Lerch, F. J., & Scherlis, W. L. (1998). The Awareness Monitor : A Coordination Tool for Asynchronous , Distributed Work Teams. Unpublished Manuscript, (September), 8. Retrieved from http://www.cs.cmu.edu/~kraut/RKraut.site.files/articles/cadiz98-awareness_monitor.pdf
+[1] Cadiz, J. J., Fussell, S. R., Kraut, R. E., Lerch, F. J., & Scherlis, W. L. (1998). The Awareness Monitor : A Coordination Tool for Asynchronous , Distributed Work Teams. Unpublished Manuscript, (September), 8.
 
 [2] Otjacques, B., McCall, R., & Feltz, F. (2006). An Ambient Workplace for Raising Awareness of Internet-Based Cooperation. Cooperative Design, Visualization, and Engineering, 4101, 275 – 286. doi:10.1007/11863649_34
 
-[3] Röcker, C., Prante, T., & Streitz, N. a. (2004). Using Ambient Displays and Smart Artefacts to Support Community Interaction in Distributed Teams. Proceedings of the Conference of the Australian Computer-Human Interaction Special Interest Group (OzCHI’04), 22–24. Retrieved from http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.9062&amp;rep=rep1&amp;type=pdf
+[3] Röcker, C., Prante, T., & Streitz, N. a. (2004). Using Ambient Displays and Smart Artefacts to Support Community Interaction in Distributed Teams. Proceedings of the Conference of the Australian Computer-Human Interaction Special Interest Group (OzCHI’04), 22–24.
