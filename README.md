@@ -7,6 +7,24 @@ It is composed of a hexagonal box made of wood and acrylic. The acrylic portion 
 
 It uses a [Photon](https://store.particle.io/?product=particle-photon) to power the display's output.
 
+### Images and Videos
+
+
+*Inside of the display*
+![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
+
+![inside of the display with spoke](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
+
+
+*Circuit details*
+![circuit](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/circuit.png)
+
+
+*Original paper prototype*
+![paper prototype](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/prototype1.png)
+
+![paper prototype with "LED" on](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/prototype2.png)
+
 
 ## Details
 The information used in the display is pulled from a user's Google Drive activity via the Google Drive API. The information used in the display is (1) the time the most recent revision to any Google Document in the user's Google Drive was made, and (2) the number of changes that have not been viewed by the user. This data can be sent to the Photon both via the cloud and via the serial port.
