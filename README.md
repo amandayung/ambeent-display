@@ -11,9 +11,9 @@ It uses a [Photon](https://store.particle.io/?product=particle-photon) to power 
 
 
 *Inside of the display*
-![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside2.png)
+![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
 
-![inside of the display with spoke](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
+![inside of the display with spoke](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside2.png)
 
 
 *Circuit details*
