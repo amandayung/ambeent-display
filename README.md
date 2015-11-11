@@ -7,11 +7,11 @@ It is composed of a hexagonal box made of wood and acrylic. The acrylic portion 
 
 It uses a [Photon](https://store.particle.io/?product=particle-photon) to power the display's output.
 
-### Images and Videos
+### Images and Video
 
 
 *Inside of the display*
-![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
+![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside2.png)
 
 ![inside of the display with spoke](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
 
