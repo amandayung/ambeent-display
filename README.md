@@ -9,6 +9,15 @@ It uses a [Photon](https://store.particle.io/?product=particle-photon) to power 
 
 ### Images and Video
 
+*Outside of the display*
+![outside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Top%20view.jpg)
+
+![outside of the display, side view](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Side%20view.jpg)
+
+![close up of bees](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Bee%20close%20up.jpg)
+
+*Link to video of display in action*
+![video of display](https://raw.githubusercontent.com/amandayung/ambeent-display/blob/master/images/Ambeent%20Video.mp4)
 
 *Inside of the display*
 ![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
