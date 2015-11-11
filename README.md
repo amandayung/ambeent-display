@@ -17,7 +17,7 @@ It uses a [Photon](https://store.particle.io/?product=particle-photon) to power 
 ![close up of bees](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Bee%20close%20up.jpg)
 
 *Link to video of display in action*
-![video of display](https://raw.githubusercontent.com/amandayung/ambeent-display/blob/master/images/Ambeent%20Video.mp4)
+![video of display](https://github.com/amandayung/ambeent-display/raw/master/images/Ambeent%20Video.mp4)
 
 *Inside of the display*
 ![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
