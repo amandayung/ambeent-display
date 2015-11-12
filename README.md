@@ -9,7 +9,7 @@ It uses a [Photon](https://store.particle.io/?product=particle-photon) to power 
 
 ### Video and Images
 
-[Link to video of display in action](https://github.com/amandayung/ambeent-display/raw/master/images/Ambeent%20Video.mp4)
+[**Link to video of display in action!**](https://github.com/amandayung/ambeent-display/raw/master/images/Ambeent%20Video.mp4)
 
 *Outside of the display*
 ![outside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Top%20view.jpg)
@@ -18,13 +18,16 @@ It uses a [Photon](https://store.particle.io/?product=particle-photon) to power 
 
 ![close up of bees](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Bee%20close%20up.jpg)
 
+
 *Inside of the display*
+
 (The inside of the box is lined with aluminum foil and yellow cellophane for a brighter, yellower light.)
+
 ![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
 
 ![inside of the display with spoke](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside2.png)
 
-## Circuit
+### Circuit
 ![circuit](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/circuit.png)
 
 Components:
@@ -41,7 +44,7 @@ Guides used for help to assemble the circuit:
 * https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview
 
 
-## Paper Prototype
+### Paper Prototype
 ![paper prototype](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/prototype1.png)
 
 ![paper prototype with "LED" on](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/prototype2.png)
