@@ -7,11 +7,11 @@ It is composed of a hexagonal box made of wood and acrylic. The acrylic portion 
 
 It uses a [Photon](https://store.particle.io/?product=particle-photon) to power the display's output.
 
-### Video and Images
+## Video and Images
 
 [**Link to video of display in action!**](https://github.com/amandayung/ambeent-display/raw/master/images/Ambeent%20Video.mp4)
 
-*Outside of the display*
+### Outside of the display
 ![outside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Top%20view.jpg)
 
 ![outside of the display, side view](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Side%20view.jpg)
@@ -19,9 +19,8 @@ It uses a [Photon](https://store.particle.io/?product=particle-photon) to power 
 ![close up of bees](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Bee%20close%20up.jpg)
 
 
-*Inside of the display*
-
-(The inside of the box is lined with aluminum foil and yellow cellophane for a brighter, yellower light.)
+### Inside of the display
+The inside of the box is lined with aluminum foil and yellow cellophane for a brighter, yellower light.
 
 ![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
 
