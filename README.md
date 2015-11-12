@@ -1,5 +1,5 @@
 # Am-bee-nt Display
-The Am-bee-nt Display visualizes group collaboration in a user's Google Drive activity. The display design uses the metaphor of group collaborators as worker bees.
+The Am-bee-nt Display visualizes group collaboration in a user's Google Drive. The display design uses the metaphor of group collaborators as worker bees.
 
 It is composed of a hexagonal box made of wood and acrylic. The acrylic portion of the display has been designed to appear like oozing honey. There are also wooden magnetic bees attached to the top of the display. The display has two main outputs:
 * The bees move around in a circle to indicate realtime changes to a Google Doc.
@@ -7,7 +7,9 @@ It is composed of a hexagonal box made of wood and acrylic. The acrylic portion 
 
 It uses a [Photon](https://store.particle.io/?product=particle-photon) to power the display's output.
 
-### Images and Video
+### Video and Images
+
+[Link to video of display in action](https://github.com/amandayung/ambeent-display/raw/master/images/Ambeent%20Video.mp4)
 
 *Outside of the display*
 ![outside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Top%20view.jpg)
@@ -16,28 +18,38 @@ It uses a [Photon](https://store.particle.io/?product=particle-photon) to power 
 
 ![close up of bees](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Bee%20close%20up.jpg)
 
-*Link to video of display in action*
-![video of display](https://github.com/amandayung/ambeent-display/raw/master/images/Ambeent%20Video.mp4)
-
 *Inside of the display*
+(The inside of the box is lined with aluminum foil and yellow cellophane for a brighter, yellower light.)
 ![inside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside1.png)
 
 ![inside of the display with spoke](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/display-inside2.png)
 
-
-*Circuit details*
+## Circuit
 ![circuit](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/circuit.png)
 
+Components:
+* 1 Photon
+* 1 3V DC motor
+* 1 290 Ω resistor
+* 1 1N4001 diode
+* 1 2N3904 transistor
+* 1 RGB LED
+* 3 220 Ω resistor
 
-*Original paper prototype*
+Guides used for help to assemble the circuit:
+* https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/overview
+* https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview
+
+
+## Paper Prototype
 ![paper prototype](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/prototype1.png)
 
 ![paper prototype with "LED" on](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/prototype2.png)
 
 
 ## Details
-The information used in the display is pulled from a user's Google Drive activity via the Google Drive API. The information used in the display is (1) the time the most recent revision to any Google Document in the user's Google Drive was made, and (2) the number of changes that have not been viewed by the user. This data can be sent to the Photon both via the cloud and via the serial port.
-
+The information used in the display is pulled from a user's Google Drive activity via the Google Drive API. The information used in the display is (1) the time the most recent revision to any Google Document in the user's Google Drive was made, and (2) the number of changes that have not been viewed by the user. We use a node.js server to handle all API calls and for sending the data. This data can be sent to the Photon both via the cloud and via the serial port.
+ 
 ### Revision Tracker
 Since Google Drive is a collaborative tool, revisions can be made by any collaborator whom a user's document is shared with, or who has shared a document with the user. Google Drive automatically saves revisions, which are reported via the Google Drive API using the [Revisions resource](https://developers.google.com/drive/v2/reference/revisions).
 
@@ -69,7 +81,7 @@ Several research groups have designed ambient displays as an attempt to improve 
 
 Building off this past work and using Röcker et al.'s ambient display requirements as a guideline, we designed our own ambient display for improving CSCW. We decided to make a display using Google Drive as our source of information since it is a highly used remote collaborative tool. However, one of its limitations is that a user must be actively using Google Drive in order to 
 
-Our display shows *presence and availability information* through the movement of the bees: when the bees are moving, this indicates that someone is working on a Google document in realtime. Consequently, the user can tell when someone is curretntly working on a document, and can decide to spontaneously join their collaborator in document writing.
+Our display shows *presence and availability information* through the movement of the bees: when the bees are moving, this indicates that someone is working on a Google document in realtime. Consequently, the user can tell when someone is currently working on a document, and can decide to spontaneously join their collaborator in document writing.
 
 With the simple motion of the bees and the slowly increasing brightness of the LED, our ambient display also *avoids interruptions* with a user's workflow. Since the display can be placed anywhere on one's desk, it can also *deliver peripheral awareness* when a user glances at the display to see any current document activity or any previous activity that the user has not seen yet.
 
