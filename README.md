@@ -38,7 +38,7 @@ Components:
 * 1 1N4001 diode
 * 1 2N3904 transistor
 * 1 RGB LED
-* 3 220 Ω resistor
+* 3 220 Ω resistors
 
 Guides used for help to assemble the circuit:
 * https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/overview
