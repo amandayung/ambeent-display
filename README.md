@@ -11,6 +11,8 @@ It uses a [Photon](https://store.particle.io/?product=particle-photon) to power 
 
 [**Link to video of display in action!**](https://github.com/amandayung/ambeent-display/raw/master/images/Ambeent%20Video.mp4)
 
+[Link to laser cutter pattern](https://github.com/amandayung/ambeent-display/raw/master/beebox.ai)
+
 ### Outside of the display
 ![outside of the display](https://raw.githubusercontent.com/amandayung/ambeent-display/master/images/Top%20view.jpg)
 
